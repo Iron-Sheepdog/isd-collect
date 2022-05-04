@@ -1,2 +1,1 @@
-# isd-collect
-ISD Collect
+ISD Collect Prototype
